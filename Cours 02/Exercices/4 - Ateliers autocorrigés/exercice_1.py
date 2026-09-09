@@ -21,7 +21,7 @@
 #         x = 10; y = 20
 #         print(x + y)
 #     A) 1     B) 2     C) 3     D) 4
-reponse_a1 = "C"
+reponse_a1 = None
 
 # A2) Pourquoi Print("Bonjour") ne fonctionne-t-il pas ?
 #     A) La fonction print() n'existe pas en Python
